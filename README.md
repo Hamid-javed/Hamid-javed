@@ -16,7 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-javed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hamid-javed&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
