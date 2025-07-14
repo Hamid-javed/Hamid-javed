@@ -1,4 +1,8 @@
 <div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hamid-Javed&theme=dark)](https://git.io/streak-stats)
+
+  
 ## Hi there 👋<br>
   Hamid Here<br>
 # 💫 About Me:
