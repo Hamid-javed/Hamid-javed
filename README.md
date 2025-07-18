@@ -1,30 +1,31 @@
+<!-- HEADER -->
 
-<div align="center">
-  <img src="https://github.com/Hamid-Javed/Hamid-Javed/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
+<h1 align="center">👋 Hi, I'm <span style="color:#38B2AC">Hamid Javed</span></h1>
 
-
-
-<div align="center">
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38B2AC&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamid!;Full+Stack+MERN+Developer;React+%7C+Node+%7C+GraphQL+%7C+Next.js;Always+Building+Something+Cool!" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+GraphQL+%7C+Next.js;Always+Building+Something+Cool!" alt="Typing SVG" />
+</p>
 
 ---
 
-### 💫 About Me
+
+<p align="center">
+  <img src="https://github.com/Hamid-Javed/Hamid-Javed/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 💫 About Me
+
+<div align="center">
 
 🔥 Passionate Full-Stack Developer building scalable and high-performance web apps  
-🛠 Currently working with the **MERN stack** + **Next.js**  
+🛠 Currently working with the <strong>MERN stack</strong> + <strong>Next.js</strong>  
 📦 Focused on clean code, optimization, and best practices  
-🌐 Exploring advanced **React Patterns**, **GraphQL**, and **Server-Side Rendering**  
+🌐 Exploring advanced <strong>React Patterns</strong>, <strong>GraphQL</strong>, and <strong>Server-Side Rendering</strong>  
 📊 Enjoy creating dynamic dashboards, real-time features, and smooth UIs  
 🤝 Open to collaborating with forward-thinking dev teams & open-source projects  
 🚀 Obsessed with speed — I love making the web faster with JavaScript performance hacks!
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Hamid-Javed&theme=dark&hide_border=false" width="60%" />
 
 </div>
 
@@ -32,17 +33,14 @@
 
 ## 🔗 Connect With Me
 
-<div align="center">
-
-<a href="https://linkedin.com/in/hamid-javed-3b3990327" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Hamid%20Javed-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://codewithhamid.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/hamid-javed-3b3990327" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codewithhamid.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -82,16 +80,20 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hamid-Javed&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-Javed&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Hamid-Javed&limit=5&theme=dark&combine_all_yearly_contributions=true" width="75%"/>
-
-</div>
+<p align="center">
+ <img 
+    src="https://github-readme-stats.vercel.app/api?username=Hamid-Javed&show_icons=true&theme=radical" 
+    alt="GitHub Stats"
+    width="420"
+/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-Javed&layout=compact&theme=tokyonight" 
+    alt="Top Languages"
+    width="323"
+/>
+  <br />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Hamid-Javed&limit=5&theme=dark&combine_all_yearly_contributions=true" width="75%"/>
+</p>
 
 ---
 
@@ -108,7 +110,7 @@
 <div align="center">
 
 ### ⚡ Let's Build the Future Together!
-  
+
 [![](https://visitcount.itsvg.in/api?id=Hamid-Javed&icon=5&color=6)](https://visitcount.itsvg.in)
 
 </div>
