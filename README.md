@@ -1,7 +1,10 @@
 <!-- Profile Header -->
+## 🐍 GitHub Contribution Snake
+
 <div align="center">
-  <img src="https://github.com/Hamid-Javed/Hamid-Javed/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Hamid-Javed/Hamid-Javed/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
 
 <div align="center">
 
