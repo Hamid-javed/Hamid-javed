@@ -1,11 +1,6 @@
-<!-- Profile Header -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamid-Javed/Hamid-Javed/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamid-Javed/Hamid-Javed/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Hamid-Javed/Hamid-Javed/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
-  </picture>
+  <img src="https://github.com/Hamid-Javed/Hamid-Javed/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
 
@@ -89,8 +84,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hamid-Javed&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-Javed&theme=dark&hide_border=false&layout=compact" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hamid-Javed&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-Javed&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 <br/>
 
