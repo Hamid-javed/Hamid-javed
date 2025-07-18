@@ -15,6 +15,8 @@
 🤝 Open to collaborating with forward-thinking dev teams & open-source projects  
 🚀 Obsessed with speed — I love making the web faster with JavaScript performance hacks!
 
+<br/>
+
 <img src="https://nirzak-streak-stats.vercel.app/?user=Hamid-Javed&theme=dark&hide_border=false" width="60%" />
 
 </div>
