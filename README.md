@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38B2AC&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamid!;Full+Stack+MERN+Developer;React+%7C+Node+%7C+GraphQL+%7C+Next.js;Always+Building+Something+Cool!" alt="Typing SVG" />
 
 ---
@@ -24,9 +24,14 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-Hamid%20Javed-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/hamid-javed-3b3990327)](https://linkedin.com/in/hamid-javed-3b3990327) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](#)
+
+<a href="https://linkedin.com/in/hamid-javed-3b3990327" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Hamid%20Javed-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://codewithhamid.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
