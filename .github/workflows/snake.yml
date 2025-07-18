@@ -1,4 +1,4 @@
-name: 🐍 Generate Snake
+name: Generate Snake
 
 on:
   schedule:
@@ -9,14 +9,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      - name: Generate Snake SVG
+        uses: Platane/snk@master
         with:
-          github_user_name: Hamid-Javed
+          github_user_name: Hamid-javed
           outputs: |
-            ./dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
