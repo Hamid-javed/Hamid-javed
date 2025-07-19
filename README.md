@@ -1,24 +1,29 @@
 <!-- HEADER -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#38B2AC">Hamid Javed</span></h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> Hi, I'm <span style="color:#38B2AC">Hamid Javed</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+GraphQL+%7C+Next.js;Always+Building+Something+Cool!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+GraphQL+%7C+Next.js;Always+Building+Something+Cool!" alt="Typing SVG" />
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://github.com/Hamid-Javed/Hamid-Javed/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
+
+<br/>
+<p align="center">
+ <img src="https://streak-stats.demolab.com?user=Hamid-Javed&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+<br/>
+<br/>
+
 ---
 
 ## 💫 About Me
-
 <div align="center">
-
 🔥 Passionate Full-Stack Developer building scalable and high-performance web apps  
 🛠 Currently working with the <strong>MERN stack</strong> + <strong>Next.js</strong>  
 📦 Focused on clean code, optimization, and best practices  
