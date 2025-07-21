@@ -15,7 +15,7 @@
 
 <br/>
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=Hamid-Javed&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=Hamid-javed&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 <br/>
 <br/>
