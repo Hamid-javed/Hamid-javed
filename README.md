@@ -14,9 +14,9 @@
 
 
 <br/>
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hamid-javed&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</p> -->
 <br/>
 <br/>
 
