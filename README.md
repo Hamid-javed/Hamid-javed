@@ -14,7 +14,7 @@
 
 I build full-stack web applications using React, Node.js, MongoDB, and Next.js. Most of my work is custom builds: SaaS platforms, admin dashboards, REST APIs, e-commerce sites, and web portals where the client needs both frontend and backend handled properly.
 
-I've worked with startups on their first MVP and with businesses rebuilding something that wasn't done right the first time. I also work on debugging and fixing existing apps — tracking down root causes, not just patching symptoms.
+I've worked with startups on their first MVP and with businesses rebuilding something that wasn't done right the first time. I also work on debugging and fixing existing apps, tracking down root causes, not just patching symptoms.
 
 I use AI tools (Claude, Cursor) as part of my daily workflow. I'm also comfortable with AWS deployments, CI/CD pipelines, and Docker.
 
