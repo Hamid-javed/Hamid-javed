@@ -22,6 +22,7 @@ I use AI tools (Claude, Cursor) as part of my daily workflow. I'm also comfortab
 
 ## Tech Stack
 
+<p align="center">
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -43,6 +44,7 @@ I use AI tools (Claude, Cursor) as part of my daily workflow. I'm also comfortab
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+</p>
 
 ---
 
