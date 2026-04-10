@@ -10,6 +10,8 @@
   <a href="mailto:hamidjaved615@gmail.com">hamidjaved615@gmail.com</a>
 </p>
 
+https://raw.githubusercontent.com/{Hamid-javed}/{Hamid-javed}/output/github-contribution-grid-snake-dark.svg
+
 ---
 
 I build full-stack web applications using React, Node.js, MongoDB, and Next.js. Most of my work is custom builds: SaaS platforms, admin dashboards, REST APIs, e-commerce sites, and web portals where the client needs both frontend and backend handled properly.
