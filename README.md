@@ -10,7 +10,7 @@
   <a href="mailto:hamidjaved615@gmail.com">hamidjaved615@gmail.com</a>
 </p>
 
-https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/output/github-contribution-grid-snake-dark.svg
+<img src="https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
