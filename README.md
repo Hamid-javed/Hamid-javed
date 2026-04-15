@@ -55,8 +55,11 @@ I use AI tools (Claude, Cursor) as part of my daily workflow. I'm also comfortab
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamid-javed&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-javed&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" height="165"/>
+ <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hamid-javed&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hamid-javed&theme=darkhub&no-frame=true&column=4" height="165"/>
+</p>
+
 </p>
 
 <p align="center">
