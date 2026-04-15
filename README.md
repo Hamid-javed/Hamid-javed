@@ -13,7 +13,7 @@
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 ---
@@ -53,6 +53,10 @@ I use AI tools (Claude, Cursor) as part of my daily workflow. I'm also comfortab
 ---
 
 ## GitHub Stats
+
+<p align="center">
+  <img src="[https://streak-stats.demolab.com?user=Hamid-javed&theme=github-dark&hide_border=true](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamid-javed&theme=github_dark)" height="200"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hamid-javed&theme=github-dark&hide_border=true" height="200"/>
