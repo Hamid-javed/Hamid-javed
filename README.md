@@ -54,6 +54,8 @@ I use AI tools (Claude, Cursor) as part of my daily workflow. I'm also comfortab
 
 ## GitHub Stats
 
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamid-javed&theme=github_dark)
+
 <p align="center">
   <img src="[https://streak-stats.demolab.com?user=Hamid-javed&theme=github-dark&hide_border=true](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamid-javed&theme=github_dark)" height="200"/>
 </p>
