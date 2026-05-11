@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~014bb6255b56b54124">Upwork</a> ·
+  <a href="https://www.upwork.com/freelancers/~014bb6255b56b54124" target="_blank">Upwork</a> ·
   <a href="https://www.fiverr.com/hamidjaved_">Fiverr</a> ·
   <a href="mailto:hamidjaved615@gmail.com">hamidjaved615@gmail.com</a> ·
   <a href="https://hamidjaved.netlify.app/">Portfolio</a>
