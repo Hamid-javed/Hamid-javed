@@ -65,7 +65,7 @@ I use AI tools (Claude, Cursor, Antigravity, Codex) as part of my daily workflow
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hamid-javed)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hamid-javed&theme=github-compact)](https://github.com/Hamid-javed)
 
 
 ---
