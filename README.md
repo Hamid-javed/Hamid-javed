@@ -17,7 +17,7 @@
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
----
+--- 
 
 I build full-stack web applications using React, Node.js, MongoDB, and Next.js. Most of my work is custom builds: SaaS platforms, admin dashboards, REST APIs, e-commerce sites, and web portals where the client needs both frontend and backend handled properly.
 
