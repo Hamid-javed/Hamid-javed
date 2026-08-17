@@ -1,4 +1,4 @@
-  <h1 align="center">Hey, I'm Hamid Javed 👋</h1>
+<h1 align="center">Hey, I'm Hamid Javed 👋</h1>
 
 <p align="center">
  Software Engineer · MERN Stack · DevOps Eng · Next.js · AWS · AI-Powered Apps
