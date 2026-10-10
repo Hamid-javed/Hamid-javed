@@ -1,44 +1,73 @@
-<h1 align="center">Hey, I'm Hamid Javed 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Hamid%20Javed&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-Stack%20%C2%B7%20DevOps%20%C2%B7%20AI-Powered%20Apps&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Hamid Javed banner" />
 
 <p align="center">
-  <strong>Software Engineer · MERN Stack · DevOps · AWS · AI-Powered Apps</strong>
+  <a href="https://hamidstack.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+production-ready+software;MERN+%C2%B7+Next.js+%C2%B7+Django+%C2%B7+Rust;AWS+%C2%B7+Docker+%C2%B7+CI%2FCD;Debugging+the+hard+stuff+so+you+don't+have+to" alt="Typing animation" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://hamidstack.com/">🌐 Portfolio</a> ·
-  <a href="https://www.upwork.com/freelancers/~014bb6255b56b54124">💼 Upwork</a> ·
-  <a href="https://www.fiverr.com/hamidjaved_">🛠️ Fiverr</a> ·
-  <a href="mailto:hamidjaved615@gmail.com">✉️ Email</a>
+  <a href="https://hamidstack.com/"><img src="https://img.shields.io/badge/Portfolio-hamidstack.com-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.upwork.com/freelancers/~014bb6255b56b54124"><img src="https://img.shields.io/badge/Upwork-Hire_me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="https://www.fiverr.com/hamidjaved_"><img src="https://img.shields.io/badge/Fiverr-Gigs-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+  <a href="mailto:hamidjaved615@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamid-javed&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Hamid-javed?style=flat-square&label=Followers" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Hamid-javed&style=flat-square&color=2DD4BF&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Hamid-javed?style=flat-square&label=Followers&color=2DD4BF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Hamid-javed?style=flat-square&label=Stars&color=2DD4BF" alt="Stars" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
 </p>
 
 ## 👨‍💻 About me
 
-I build practical, production-minded software for startups and businesses—from first MVPs to full SaaS platforms, admin dashboards, REST APIs, e-commerce sites, and web portals.
+I build practical, production-minded software for startups and businesses: MVPs, SaaS platforms, admin dashboards, REST APIs, e-commerce sites and desktop apps.
 
-I also help teams improve existing applications by debugging difficult issues, modernizing codebases, and making deployments more reliable with AWS, Docker, and CI/CD.
+I also help teams rescue and modernize existing codebases, and make deployments boring (in a good way) with AWS, Docker and CI/CD.
 
-<details>
-<summary><strong>✨ What I can help with</strong></summary>
+```js
+const hamid = {
+  role: "Software Engineer",
+  focus: ["Full-stack web", "Cloud & DevOps", "AI-assisted products"],
+  currentlyBuilding: "Local-first desktop POS in Rust",
+  workflow: ["Claude", "Cursor", "Codex", "Antigravity"],
+  openTo: ["Freelance projects", "Feature work", "Debugging & performance"],
+  reachMe: "hamidstack.com",
+};
+```
 
-- Full-stack web applications
-- React and Next.js frontends
-- Node.js, Express, Django, and Python backends
-- REST APIs and database design
-- AWS deployments and cloud infrastructure
-- Docker and CI/CD pipelines
-- Application debugging and performance improvements
-- AI-assisted product features and development workflows
+## 🚀 Featured projects
 
-</details>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Hamid-javed/pos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-javed&repo=pos&theme=github_dark&hide_border=true" alt="pos" /></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Hamid-javed/az-logics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-javed&repo=az-logics&theme=github_dark&hide_border=true" alt="az-logics" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Hamid-javed/virtue-leader-board"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-javed&repo=virtue-leader-board&theme=github_dark&hide_border=true" alt="virtue-leader-board" /></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Hamid-javed/NeuroDriveNext"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-javed&repo=NeuroDriveNext&theme=github_dark&hide_border=true" alt="NeuroDriveNext" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Hamid-javed/resume-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-javed&repo=resume-generator&theme=github_dark&hide_border=true" alt="resume-generator" /></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Hamid-javed/FYP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-javed&repo=FYP&theme=github_dark&hide_border=true" alt="FYP" /></a>
+    </td>
+  </tr>
+</table>
 
 ## 🧭 How I work
 
@@ -54,54 +83,43 @@ flowchart LR
 
 ## 🛠️ Tech stack
 
-<details open>
-<summary><strong>Frontend</strong></summary>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,django,py,rust,mongodb,postgres,mysql&perline=13" alt="Languages and frameworks" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,terraform,linux,git,github,vercel&perline=8" alt="Cloud and tools" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<details>
+<summary><strong>✨ What I can help with</strong></summary>
 
-</details>
-
-<details open>
-<summary><strong>Backend and data</strong></summary>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- Full-stack web applications (React, Next.js, Node.js, Django)
+- REST APIs and database design
+- AWS deployments, Docker and CI/CD pipelines
+- Debugging, modernizing and speeding up existing apps
+- AI-assisted product features and workflows
+- Local-first desktop apps
 
 </details>
 
-<details open>
-<summary><strong>Cloud, DevOps, and tools</strong></summary>
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-I regularly use AI tools such as Claude, Cursor, Antigravity, and Codex as part of my development workflow.
-
-</details>
-
-## 📊 GitHub activity
+## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamid-javed&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub contribution streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamid-javed&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamid-javed&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-javed&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamid-javed&theme=github-dark-blue&hide_border=true" height="170" alt="Contribution streak" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Hamid-javed">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamid-javed&theme=github-compact&hide_border=true" alt="GitHub activity graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamid-javed&theme=github-compact&hide_border=true" alt="Activity graph" width="100%" />
   </a>
 </p>
 
-## 🤝 Available for freelance work
+## 🤝 Let's work together
 
 I'm available for complete projects, focused feature work, and debugging or improving existing applications.
 
@@ -115,3 +133,5 @@ I'm available for complete projects, focused feature work, and debugging or impr
 <p align="center">
   <strong>Have an idea or a difficult bug? Let's build something useful.</strong>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,100:0f2027&section=footer" width="100%" alt="" />
