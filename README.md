@@ -14,12 +14,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamid-javed&style=flat-square&color=2DD4BF&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Hamid-javed?style=flat-square&label=Followers&color=2DD4BF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Hamid-javed?style=flat-square&label=Stars&color=2DD4BF" alt="Stars" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
 </p>
 
@@ -40,31 +34,21 @@ const hamid = {
 };
 ```
 
-## 🚀 Featured projects
+## 🎯 What I do best
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Hamid-javed/pos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-javed&repo=pos&theme=github_dark&hide_border=true" alt="pos" /></a>
+    <td width="33%" valign="top">
+      <h3>🌐 Web &amp; SaaS</h3>
+      MVPs, dashboards, e-commerce and portals with React, Next.js, Node.js and Django.
     </td>
-    <td width="50%">
-      <a href="https://github.com/Hamid-javed/az-logics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-javed&repo=az-logics&theme=github_dark&hide_border=true" alt="az-logics" /></a>
+    <td width="33%" valign="top">
+      <h3>☁️ Cloud &amp; DevOps</h3>
+      AWS deployments, Docker, CI/CD pipelines and reliable release workflows.
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Hamid-javed/virtue-leader-board"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-javed&repo=virtue-leader-board&theme=github_dark&hide_border=true" alt="virtue-leader-board" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Hamid-javed/NeuroDriveNext"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-javed&repo=NeuroDriveNext&theme=github_dark&hide_border=true" alt="NeuroDriveNext" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Hamid-javed/resume-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-javed&repo=resume-generator&theme=github_dark&hide_border=true" alt="resume-generator" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Hamid-javed/FYP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-javed&repo=FYP&theme=github_dark&hide_border=true" alt="FYP" /></a>
+    <td width="33%" valign="top">
+      <h3>🤖 AI &amp; Automation</h3>
+      AI-assisted features, internal tooling and faster development workflows.
     </td>
   </tr>
 </table>
