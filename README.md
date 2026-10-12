@@ -15,11 +15,15 @@
 
 I'm a software engineer with experience across web and mobile apps, DevOps and cloud. I build and ship production software for startups and businesses: SaaS platforms, APIs, dashboards, web and mobile apps. I deploy and operate it on AWS with Docker and CI/CD, and I use AI tools like Claude and Codex to move faster.
 
+<img src="https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/main/stars.svg" width="100%" alt="" />
+
 ## 🎯 What I do
 
 | 🌐 Web & Mobile | ☁️ DevOps & Cloud | 🤖 AI-Assisted Engineering |
 | --- | --- | --- |
 | React, Next.js, Node.js, Django, mobile apps | AWS, Docker, CI/CD, Terraform | Claude, Codex, AI-powered features and workflows |
+
+<img src="https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/main/stars.svg" width="100%" alt="" />
 
 ## 🛠️ Tech stack
 
@@ -27,19 +31,23 @@ I'm a software engineer with experience across web and mobile apps, DevOps and c
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,django,py,rust,mongodb,postgres,mysql,aws,docker,githubactions,terraform,linux,git&perline=10" alt="Tech stack" />
 </p>
 
+<img src="https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/main/stars.svg" width="100%" alt="" />
+
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamid-javed&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-javed&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamid-javed&show_icons=true&bg_color=0a0d0c&title_color=4ef08a&text_color=e8ede9&icon_color=4ef08a&border_color=1d2623&ring_color=4ef08a&rank_icon=github" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-javed&layout=compact&bg_color=0a0d0c&title_color=4ef08a&text_color=e8ede9&icon_color=4ef08a&border_color=1d2623&ring_color=4ef08a&langs_count=8" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
 </p>
 
+<img src="https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/main/stars.svg" width="100%" alt="" />
+
 ## 🤝 Let's work together
 
 Available for full projects, feature work, cloud/DevOps setup, and debugging existing apps. Reach me via the buttons above.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2c5364,100:0f2027&section=footer" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Hamid-javed/Hamid-javed/main/stars.svg" width="100%" alt="" />
