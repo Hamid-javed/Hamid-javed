@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Hamid Javed - Software Engineer">
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045"/></pattern>
+<radialGradient id="g1"><stop offset="0" stop-color="#2fe07a" stop-opacity="0.55"/><stop offset="1" stop-color="#2fe07a" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2"><stop offset="0" stop-color="#14b8a6" stop-opacity="0.45"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></radialGradient>
+<radialGradient id="g3"><stop offset="0" stop-color="#86efac" stop-opacity="0.3"/><stop offset="1" stop-color="#86efac" stop-opacity="0"/></radialGradient>
+<linearGradient id="tail" gradientUnits="userSpaceOnUse" x1="-90" y1="-45" x2="0" y2="0"><stop offset="0" stop-color="#4ef08a" stop-opacity="0"/><stop offset="1" stop-color="#b6ffd0"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0.75" stop-color="#0a0d0c" stop-opacity="0"/><stop offset="1" stop-color="#0a0d0c"/></linearGradient>
+</defs>
+<rect width="1200" height="260" fill="#0a0d0c"/>
+<ellipse cx="260" cy="90" rx="380" ry="150" fill="url(#g1)"><animateTransform attributeName="transform" type="translate" values="0,0;160,30;60,-20;0,0" dur="14s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="900" cy="200" rx="420" ry="140" fill="url(#g2)"><animateTransform attributeName="transform" type="translate" values="0,0;-180,-30;-60,20;0,0" dur="18s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="620" cy="40" rx="300" ry="100" fill="url(#g3)"><animateTransform attributeName="transform" type="translate" values="0,0;-120,40;100,10;0,0" dur="22s" repeatCount="indefinite"/></ellipse>
+<rect width="1200" height="260" fill="url(#grid)"/>
+<g opacity="0"><line x1="-90" y1="-45" x2="0" y2="0" stroke="url(#tail)" stroke-width="2" stroke-linecap="round"/><circle r="2" fill="#b6ffd0"/>
+<animateTransform attributeName="transform" type="translate" values="120,-30;380,100" dur="3.8s" begin="0.0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.7;1" dur="3.8s" begin="0.0s" repeatCount="indefinite"/></g>
+<g opacity="0"><line x1="-90" y1="-45" x2="0" y2="0" stroke="url(#tail)" stroke-width="2" stroke-linecap="round"/><circle r="2" fill="#b6ffd0"/>
+<animateTransform attributeName="transform" type="translate" values="430,-30;690,100" dur="4.6s" begin="1.4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.7;1" dur="4.6s" begin="1.4s" repeatCount="indefinite"/></g>
+<g opacity="0"><line x1="-90" y1="-45" x2="0" y2="0" stroke="url(#tail)" stroke-width="2" stroke-linecap="round"/><circle r="2" fill="#b6ffd0"/>
+<animateTransform attributeName="transform" type="translate" values="760,-30;1020,100" dur="4.2s" begin="2.6s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.7;1" dur="4.2s" begin="2.6s" repeatCount="indefinite"/></g>
+<g opacity="0"><line x1="-90" y1="-45" x2="0" y2="0" stroke="url(#tail)" stroke-width="2" stroke-linecap="round"/><circle r="2" fill="#b6ffd0"/>
+<animateTransform attributeName="transform" type="translate" values="1000,-30;1260,100" dur="5.0s" begin="0.8s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.7;1" dur="5.0s" begin="0.8s" repeatCount="indefinite"/></g>
+<g opacity="0"><line x1="-90" y1="-45" x2="0" y2="0" stroke="url(#tail)" stroke-width="2" stroke-linecap="round"/><circle r="2" fill="#b6ffd0"/>
+<animateTransform attributeName="transform" type="translate" values="250,-30;510,100" dur="5.4s" begin="3.3s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.7;1" dur="5.4s" begin="3.3s" repeatCount="indefinite"/></g>
+<rect width="1200" height="260" fill="url(#fade)"/>
+<text x="600" y="120" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="58" font-weight="800" fill="#e8ede9" letter-spacing="-1">Hamid Javed</text>
+<text x="600" y="168" text-anchor="middle" font-family="'JetBrains Mono',Consolas,'Courier New',monospace" font-size="17" fill="#4ef08a" letter-spacing="2">SOFTWARE ENGINEER  ·  WEB &amp; MOBILE  ·  DEVOPS  ·  CLOUD  ·  AI
+<animate attributeName="opacity" values="0.75;1;0.75" dur="4s" repeatCount="indefinite"/></text>
+<line x1="540" y1="195" x2="660" y2="195" stroke="#4ef08a" stroke-opacity="0.6"><animate attributeName="x2" values="600;660;600" dur="4s" repeatCount="indefinite"/><animate attributeName="x1" values="600;540;600" dur="4s" repeatCount="indefinite"/></line>
+</svg>
