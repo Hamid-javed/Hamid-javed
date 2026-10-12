@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Hamid%20Javed&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Full-Stack%20%C2%B7%20DevOps%20%C2%B7%20AI-Powered%20Apps&descSize=20&descAlignY=62&animation=fadeIn" width="100%" alt="Hamid Javed banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Hamid%20Javed&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Web%20%26%20Mobile%20%C2%B7%20DevOps%20%C2%B7%20Cloud%20%C2%B7%20AI&descSize=20&descAlignY=62&animation=fadeIn" width="100%" alt="Hamid Javed banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+production-ready+software;MERN+%C2%B7+Next.js+%C2%B7+Django+%C2%B7+Rust;AWS+%C2%B7+Docker+%C2%B7+CI%2FCD" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=700&lines=Software+engineer+building+web+%26+mobile+apps;DevOps+%C2%B7+Cloud+%C2%B7+AWS+%C2%B7+Docker+%C2%B7+CI%2FCD;Claude+%C2%B7+Codex+%C2%B7+AI-assisted+engineering" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -13,13 +13,13 @@
 
 ## 👨‍💻 About me
 
-I build practical, production-minded software for startups and businesses: MVPs, SaaS platforms, dashboards, APIs and e-commerce sites. I also help teams fix and modernize existing apps, and make deployments reliable with AWS, Docker and CI/CD.
+I'm a software engineer with experience across web and mobile apps, DevOps and cloud. I build and ship production software for startups and businesses: SaaS platforms, APIs, dashboards, web and mobile apps. I deploy and operate it on AWS with Docker and CI/CD, and I use AI tools like Claude and Codex to move faster.
 
 ## 🎯 What I do
 
-| 🌐 Web & SaaS | ☁️ Cloud & DevOps | 🤖 AI & Automation |
+| 🌐 Web & Mobile | ☁️ DevOps & Cloud | 🤖 AI-Assisted Engineering |
 | --- | --- | --- |
-| React, Next.js, Node.js, Django | AWS, Docker, CI/CD | AI-assisted features and workflows |
+| React, Next.js, Node.js, Django, mobile apps | AWS, Docker, CI/CD, Terraform | Claude, Codex, AI-powered features and workflows |
 
 ## 🛠️ Tech stack
 
@@ -40,6 +40,6 @@ I build practical, production-minded software for startups and businesses: MVPs,
 
 ## 🤝 Let's work together
 
-Available for full projects, feature work, and debugging existing apps. Reach me via the buttons above.
+Available for full projects, feature work, cloud/DevOps setup, and debugging existing apps. Reach me via the buttons above.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2c5364,100:0f2027&section=footer" width="100%" alt="" />
