@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Hamid%20Javed&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Web%20%26%20Mobile%20%C2%B7%20DevOps%20%C2%B7%20Cloud%20%C2%B7%20AI&descSize=20&descAlignY=62&animation=fadeIn" width="100%" alt="Hamid Javed banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Hamid%20Javed&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Web%20and%20Mobile%20%C2%B7%20DevOps%20%C2%B7%20Cloud%20%C2%B7%20AI&descSize=20&descAlignY=62&animation=fadeIn" width="100%" alt="Hamid Javed banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=700&lines=Software+engineer+building+web+%26+mobile+apps;DevOps+%C2%B7+Cloud+%C2%B7+AWS+%C2%B7+Docker+%C2%B7+CI%2FCD;Claude+%C2%B7+Codex+%C2%B7+AI-assisted+engineering" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=700&lines=Software+engineer+building+web+and+mobile+apps;DevOps+%C2%B7+Cloud+%C2%B7+AWS+%C2%B7+Docker+%C2%B7+CI%2FCD;Claude+%C2%B7+Codex+%C2%B7+AI-assisted+engineering" alt="Typing animation" />
 </p>
 
 <p align="center">
